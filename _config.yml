@@ -1,6 +1,6 @@
 title: Scotty Test
 description: Email → Markdown → Jekyll
 theme: minima
-url: "https://<YOUR_GITHUB_USERNAME>.github.io" # replace later if you use a custom domain
+url: "https://tchan1002.github.io" # replace later if you use a custom domain
 plugins: []
 markdown: kramdown
