@@ -1,6 +1,6 @@
-title: Scotty Test
+title: Scotty Test Blog
 description: Email → Markdown → Jekyll
 theme: minima
-url: "https://tchan1002.github.io" # replace later if you use a custom domain
-plugins: []
+url: "https://tchan1002.github.io"
+baseurl: "/jekyll-test-blog"   # <= repo name, include leading slash
 markdown: kramdown
