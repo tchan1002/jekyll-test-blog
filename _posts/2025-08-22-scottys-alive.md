@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Scotty's Alive"
-date: 2025-08-22 14:31:36 +0000
+title: "Scotty's Alive?"
+date: 2025-08-22 14:38:16 +0000
 ---
 
-Hey ChatGPT,
+Hi Chatgpt,
 
-Thanks so much for helping me build Scotty today.
+Thanks so much for your help building Scotty today.
 
-Hopefully he's going to be pretty good at beaming emails up to the Jekyll blog.
+Hopefully he'd be great at beaming emails up to the Jekyll blog.
 
-See ya tomorrow
+See ya tomorrow.
 
 �Toby
