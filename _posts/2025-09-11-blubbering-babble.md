@@ -40,3 +40,17 @@ To: tchan1002@inbox.scotty.ink <tchan1002@inbox.scotty.ink>
 Subject: Blubbering babble
 
 still working?
+
+---
+
+**Toby Chan**
+make this look clean lol
+________________________________
+
+hopping it looks cleaner now
+________________________________
+
+checking the append function
+________________________________
+
+still working?
