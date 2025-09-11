@@ -8,3 +8,16 @@ tags: [general]
 still working?
 
 ![undefined](data:undefined;base64,undefined)
+
+---
+
+## Reply - 2025-09-11 10:11:55
+
+checking the append function
+________________________________
+From: Toby Chan
+Sent: Thursday, September 11, 2025 4:55 AM
+To: tchan1002@inbox.scotty.ink <tchan1002@inbox.scotty.ink>
+Subject: Blubbering babble
+
+still working?
